@@ -1,5 +1,7 @@
 baseURL = "https://visda.vec.ac.nz"
 title = "VISDA"
+title = "VEC"
+author = Victoria Engineering Club"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -37,7 +39,7 @@ enableRobotsTXT = true
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
     meta_og_title = "VEC"
     meta_og_type = "website"
-    meta_og_url = "https://vec.ac.nz"
+    meta_og_url = "https://visda.vec.ac.nz"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "Victoria Engineering Club"
 
