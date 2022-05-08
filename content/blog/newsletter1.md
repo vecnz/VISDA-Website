@@ -1,6 +1,6 @@
 +++
 title = "Career Web Series"
-date = "2022-05-08"
+date = "2022-05-8"
 description = "Tech Careers Webinar Series 17-19 May 2022"
 tags = [
     "newsletter",
