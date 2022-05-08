@@ -1,6 +1,7 @@
 +++
 title = "Career Web Series"
 date = "2022-05-08"
+author = "Naruebet Thanuwohan (Naru)"
 description = "Tech Careers Webinar Series 17-19 May 2022"
 tags = [
     "newsletter",
