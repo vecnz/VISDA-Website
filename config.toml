@@ -81,7 +81,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "register"
     name = "Register"
-    url = "https://forms.gle/ooUf1NSCgUJV8h4H9"
+    url = "https://vuw.qualtrics.com/jfe/form/SV_6D2hjJlY8Hu0hqm?fbclid=IwAR0gSbuVxU-hluLO6WHialiBAA8XTC38SMsovv7a2TSiQfE2yuGNzSj2qYs"
     weight = 7
 
   # Footer Menu
