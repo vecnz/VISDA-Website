@@ -1,6 +1,5 @@
-baseURL = "https://vec.ac.nz"
-title = "VEC"
-author = "Shae West"
+baseURL = "https://visda.vec.ac.nz"
+title = "VISDA"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
