@@ -1,6 +1,5 @@
 baseURL = "https://visda.vec.ac.nz"
 title = "VISDA"
-title = "VEC"
 author = "Victoria Engineering Club"
 languageCode = "en"
 DefaultContentLanguage = "en"
