@@ -20,8 +20,8 @@ enableRobotsTXT = true
   mainSections = ['blog']
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "VEC Logo"
+    main = "img/logo/logo.png"
+    alt = "VISDA Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
