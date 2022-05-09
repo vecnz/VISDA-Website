@@ -8,4 +8,4 @@ title: 'Contact'
 - Linkedin: [linkedin.com/company/visda-society/](https://www.linkedin.com/company/visda-society/)
 - Email: visda@vec.ac.nz
 
-
+Last updated: 9/05/2022

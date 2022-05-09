@@ -1,7 +1,7 @@
 +++
-title = "Career Web Series"
-date = "2022-05-8"
-description = "Tech Careers Webinar Series 17-19 May 2022"
+title = "Tech Careers Webinar Series 10-19 May 2022"
+date = "2022-05-08"
+description = "Tech Careers Webinar Series 10-19 May 2022"
 tags = [
     "newsletter",
 ]
@@ -51,7 +51,7 @@ We've compiled a few employer events which we feel may interest our members, the
 
 2.20pm: [FNZ](https://careerhub.vuw.ac.nz/students/events/Detail/2709058) - products and initiatives in the Tech space Hear more about FNZ latest products and initiatives in the Tech space!
 
-Thursday 19th May, Day 3 - Build Your Skills
+### Thursday 19th May, Day 3 - Build Your Skills
 
 10.20am: [Fast Enterprises](https://careerhub.vuw.ac.nz/students/events/Detail/2708865) - Resume Building Workshop with Fast Enterprises We will be giving our tips for the best resume and take a look at some resumes to see where they could be improved.
 
